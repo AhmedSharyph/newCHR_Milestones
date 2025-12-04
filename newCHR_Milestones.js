@@ -25,10 +25,10 @@ const newCHR_Milestones = (function () {
 
   // --- Category Colors (Tailwind CSS classes) ---
   const categoryColors = {
-    "Social/Emotional Milestones": "bg-blue-100 border-blue-400",
-    "Language/Communication Milestones": "bg-green-100 border-green-400",
-    "Cognitive Milestones": "bg-yellow-100 border-yellow-400",
-    "Movement/Physical Development": "bg-pink-100 border-pink-400"
+    "I Social/Emotional Milestones": "bg-blue-100 border-blue-400",
+    "II Language/Communication Milestones": "bg-green-100 border-green-400",
+    "III Cognitive Milestones": "bg-yellow-100 border-yellow-400",
+    "IV Movement/Physical Development": "bg-pink-100 border-pink-400"
   };
 
   // --- Get milestones by month ---
