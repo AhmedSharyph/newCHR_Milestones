@@ -1,7 +1,7 @@
 // newCHR_Milestones.v2.js
 /**
  * newCHR_Milestones Library
- * Version: 1.0.0
+ * Version: 2.0
  * Author: Ahmed Shareef
  * Description: Dynamically render child milestone forms by age/month
  * License: MIT
